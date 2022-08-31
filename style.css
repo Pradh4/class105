@@ -1,0 +1,31 @@
+body{
+    background:pink;
+    color:white;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+.name_of_objects{
+    color:rgb(20, 211, 71);
+}
+    
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#result{
+    border: 1px dashed white;
+}
+
+#result_object_name{
+    color:rgb(20, 211, 71);
+}
+
+#result_object_accuaracy{
+    color:rgb(20, 211, 71);
+}
